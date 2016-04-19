@@ -13,10 +13,12 @@ Time Range<br />
 City/State/Zipcode<br />
 Check-In info(NEW feature)<br /></li>
 <li>View business rating and maximum check-ins in a day</li>
-<li>View all the reviews and votes for each business</li>
+<li>View all the reviews and votes for each business</li></ul>
 
 # How to use it?
 First mark the required check-boxes and apply the necessary filters and click on the SEARCH button to see the resulting businesses.
 Now you can see all the businesses which satisfy your filters.To check the reviews list for a business single click on the business in the business-list.After you click on the business wait for a few seconds to get the review-list table.
 
+#Demo
+https://drive.google.com/file/d/0ByxloD3t4zpTRkk2WlhOWGJNVzQ/view
 
